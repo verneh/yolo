@@ -1,1 +1,1 @@
-# yolo experiments go here.
+# yolo / ocr experiments go here.
